@@ -1,0 +1,10 @@
+# Node / Vite
+node_modules/
+netflix-style-movie-streaming-frontend/node_modules/
+netflix-style-movie-streaming-frontend/dist/
+
+# Local/editor files
+.DS_Store
+*.log
+.vscode/
+.idea/
